@@ -1,6 +1,8 @@
 # See Me
 
 Video chat application for communication with your friends and team mates.
+
+![See Me](/client/public/see-me-image.png)
 ## 
 
 ### Technologies used
